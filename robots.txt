@@ -1,0 +1,4 @@
+Sitemap: https://kakodmn.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: kakodmn.github.io
